@@ -1,8 +1,8 @@
-# ?? Java DSA Mastery A�Z
+#  Java DSA Mastery A–Z
 
 This repository contains complete Data Structures and Algorithms in Java.
 
-## ?? Topics Covered
+## Topics Covered
 - Arrays
 - Strings
 - Recursion
@@ -11,7 +11,5 @@ This repository contains complete Data Structures and Algorithms in Java.
 - Trees
 - Sorting
 
-## ?? Goal
-Crack coding interviews ??
-
-## ? Give a star if helpful!
+## 🎯 Goal
+Crack coding interviews
