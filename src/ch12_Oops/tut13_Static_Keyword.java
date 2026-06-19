@@ -25,8 +25,10 @@ public class tut13_Static_Keyword {
         System.out.println(Student2.returnCgpa(7.85f,7.11f,7.14f,7.73f));
         s1.schoolName="JMV";
         Student2 s2=new Student2();
-        s1.schoolName="Rs";
-        Student2 s3=new Student2();
+        s2.schoolName="Rs";
         System.out.println(s2.schoolName);
+        Student2 s3=new Student2();
+        System.out.println(s3.schoolName);
+        System.out.println(s1.schoolName);
     }
 }

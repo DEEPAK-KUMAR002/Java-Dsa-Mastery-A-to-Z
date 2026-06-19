@@ -17,6 +17,10 @@ class OddThread extends Thread{
 }
 public class tut05_oddevn {
     public static void main(String[] args) {
+//        EvenThread even = new EvenThread();
+//        even.start();
+//        OddThread odd = new OddThread();
+//        odd.start();
         new EvenThread().start();
         new OddThread().start();
 

@@ -19,8 +19,6 @@ public class tut07_Container_With_Most_Water {
         return maxwater;
     }
 
-
-
     //method 2
     public static int storewater2pointer(ArrayList<Integer> height) {
         int Maxwater = 0;

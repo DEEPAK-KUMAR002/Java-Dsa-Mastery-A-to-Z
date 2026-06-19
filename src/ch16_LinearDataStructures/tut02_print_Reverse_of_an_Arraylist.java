@@ -10,6 +10,8 @@ public class tut02_print_Reverse_of_an_Arraylist {
         list.add(3);
         list.add(4);
         list.add(5);
+        System.out.println("Original List:"+list+" ");
+        System.out.println("Reverse List :");
         //Reverse Print - 0(n)
         for(int i=list.size()-1;i>=0;i--){
             System.out.print(list.get(i)+" ");
